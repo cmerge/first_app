@@ -33,6 +33,7 @@ group :doc do
 end
 
 group :development do
+	gem 'sqlite3'
 	gem 'taps'
 	gem 'rvm'
 end
