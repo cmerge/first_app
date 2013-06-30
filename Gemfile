@@ -34,6 +34,7 @@ end
 
 group :development do
 	gem 'taps'
+	gem 'rvm'
 end
 
 group :production do
